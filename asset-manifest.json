@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myro/static/css/main.21a7e8f7.css",
+    "main.js": "/myro/static/js/main.d0fcf14d.js",
+    "static/js/453.472e9808.chunk.js": "/myro/static/js/453.472e9808.chunk.js",
+    "index.html": "/myro/index.html",
+    "main.21a7e8f7.css.map": "/myro/static/css/main.21a7e8f7.css.map",
+    "main.d0fcf14d.js.map": "/myro/static/js/main.d0fcf14d.js.map",
+    "453.472e9808.chunk.js.map": "/myro/static/js/453.472e9808.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21a7e8f7.css",
+    "static/js/main.d0fcf14d.js"
+  ]
+}
